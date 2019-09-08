@@ -14,3 +14,5 @@ sys.all_views.docx -> The Description About sys.all_views View in SQL Server
 sys.allocation_units.docx -> The Description About sys.allocation_units View in SQL Server
 
 sys.assembly_modules.docx -> The Description About sys.assembly_modules View in SQL Server
+
+sys.check_constraints.docx -> The Description About sys.check_constraints View in SQL Server
