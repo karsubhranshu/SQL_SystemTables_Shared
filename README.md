@@ -11,3 +11,5 @@ sys.all_sql_modules.docx -> The Description About sys.all_sql_modules View in SQ
 
 sys.all_views.docx -> The Description About sys.all_views View in SQL Server
 
+sys.allocation_units.docx -> The Description About sys.allocation_units View in SQL Server
+
