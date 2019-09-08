@@ -4,3 +4,5 @@ sys.objects.docx -> The Description About sys.objects View in SQL Server
 sys.all_objects.docx -> The Description About sys.all_objects.docx View in SQL Server
 
 sys.all_columns.docx -> The Description About sys.all_columns.docx View in SQL Server
+
+sys.all_parameters.docx -> The Description About sys.all_parameters.docx View in SQL Server
