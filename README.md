@@ -9,5 +9,5 @@ sys.all_parameters.docx -> The Description About sys.all_parameters View in SQL 
 
 sys.all_sql_modules.docx -> The Description About sys.all_sql_modules View in SQL Server
 
-sys.all_views -> The Description About sys.all_views View in SQL Server
+sys.all_views.docx -> The Description About sys.all_views View in SQL Server
 
