@@ -16,3 +16,5 @@ sys.allocation_units.docx -> The Description About sys.allocation_units View in 
 sys.assembly_modules.docx -> The Description About sys.assembly_modules View in SQL Server
 
 sys.check_constraints.docx -> The Description About sys.check_constraints View in SQL Server
+
+INFORMATION_SCHEMA_All Views.SQL -> All the views of INFORMATION_SCHEMA
